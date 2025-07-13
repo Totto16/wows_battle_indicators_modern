@@ -1,0 +1,3 @@
+/media/totto/Totto_1/SteamLibrary/steamapps/common/World of Warships/bin/10222255/res_mods/gui/ribbons
+
+/media/totto/Totto_1/SteamLibrary/steamapps/common/World of Warships/bin/10222255/res_mods/gui/VisibilityItemsClip

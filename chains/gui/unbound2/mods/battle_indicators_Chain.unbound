@@ -1,0 +1,47 @@
+(def element IconVisibilityVolley () layout=true
+	(style
+		(width = "70px")
+		(height = "70px")
+		(backgroundImage = "'url:../VisibilityItemsClip/IconVisibilityVolley.png'")
+	)
+)
+
+(def element IconVisibilityShip () layout=true
+	(style
+		(width = "70px")
+		(height = "70px")
+		(backgroundImage = "'url:../VisibilityItemsClip/IconVisibilityShip.png'")
+	)
+)
+
+(def element IconVisibilityPlane () layout=true
+	(style
+		(width = "70px")
+		(height = "70px")
+		(backgroundImage = "'url:../VisibilityItemsClip/IconVisibilityPlane.png'")
+	)
+)
+
+(def element IconVisibilityRLS () layout=true
+	(style
+		(width = "70px")
+		(height = "70px")
+		(backgroundImage = "'url:../VisibilityItemsClip/IconVisibilityRLS.png'")
+	)
+)
+
+(def element IconVisibilitySonar () layout=true
+	(style
+		(width = "70px")
+		(height = "70px")
+		(backgroundImage = "'url:../VisibilityItemsClip/IconVisibilitySonar.png'")
+	)
+)
+
+(def element IconVisibilityCommonXray () layout=true
+	(style
+		(width = "70px")
+		(height = "70px")
+		(backgroundImage = "'url:../VisibilityItemsClip/IconVisibilityCommonXray.png'")
+	)
+)
